@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinSquare4WP", "WinSquare4WP\WinSquare4WP.csproj", "{3EED75CA-E4DE-47BD-831F-675037477A7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes", "Classes\Classes.csproj", "{23870367-5A12-4591-9084-1DAC29926B67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM = Debug|ARM
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|ARM = Release|ARM
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EED75CA-E4DE-47BD-831F-675037477A7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EED75CA-E4DE-47BD-831F-675037477A7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EED75CA-E4DE-47BD-831F-675037477A7F}.Debug|ARM.ActiveCfg = Debug|ARM
+		{3EED75CA-E4DE-47BD-831F-675037477A7F}.Debug|ARM.Build.0 = Debug|ARM
+		{3EED75CA-E4DE-47BD-831F-675037477A7F}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{3EED75CA-E4DE-47BD-831F-675037477A7F}.Debug|x86.ActiveCfg = Debug|x86
+		{3EED75CA-E4DE-47BD-831F-675037477A7F}.Debug|x86.Build.0 = Debug|x86
+		{3EED75CA-E4DE-47BD-831F-675037477A7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EED75CA-E4DE-47BD-831F-675037477A7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EED75CA-E4DE-47BD-831F-675037477A7F}.Release|ARM.ActiveCfg = Release|ARM
+		{3EED75CA-E4DE-47BD-831F-675037477A7F}.Release|ARM.Build.0 = Release|ARM
+		{3EED75CA-E4DE-47BD-831F-675037477A7F}.Release|x64.ActiveCfg = Release|Any CPU
+		{3EED75CA-E4DE-47BD-831F-675037477A7F}.Release|x86.ActiveCfg = Release|x86
+		{3EED75CA-E4DE-47BD-831F-675037477A7F}.Release|x86.Build.0 = Release|x86
+		{23870367-5A12-4591-9084-1DAC29926B67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23870367-5A12-4591-9084-1DAC29926B67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23870367-5A12-4591-9084-1DAC29926B67}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{23870367-5A12-4591-9084-1DAC29926B67}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{23870367-5A12-4591-9084-1DAC29926B67}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{23870367-5A12-4591-9084-1DAC29926B67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23870367-5A12-4591-9084-1DAC29926B67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23870367-5A12-4591-9084-1DAC29926B67}.Release|ARM.ActiveCfg = Release|Any CPU
+		{23870367-5A12-4591-9084-1DAC29926B67}.Release|x64.ActiveCfg = Release|Any CPU
+		{23870367-5A12-4591-9084-1DAC29926B67}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

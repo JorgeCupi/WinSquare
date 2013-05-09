@@ -1,0 +1,15 @@
+D:\DotNet\Visual Studio 2012\Projects\WinSquare\Classes\bin\Debug\WinSquare.Classes.dll
+D:\DotNet\Visual Studio 2012\Projects\WinSquare\Classes\bin\Debug\WinSquare.Classes.pdb
+D:\DotNet\Visual Studio 2012\Projects\WinSquare\Classes\bin\Debug\Newtonsoft.Json.dll
+D:\DotNet\Visual Studio 2012\Projects\WinSquare\Classes\bin\Debug\Newtonsoft.Json.pdb
+D:\DotNet\Visual Studio 2012\Projects\WinSquare\Classes\bin\Debug\Newtonsoft.Json.xml
+D:\DotNet\Visual Studio 2012\Projects\WinSquare\Classes\obj\Debug\Classes.csprojResolveAssemblyReference.cache
+D:\DotNet\Visual Studio 2012\Projects\WinSquare\Classes\obj\Debug\WinSquare.Classes.dll
+D:\DotNet\Visual Studio 2012\Projects\WinSquare\Classes\obj\Debug\WinSquare.Classes.pdb
+D:\DotNet\Visual Studio 2012\Projects\Libraries\WinSquare\Classes\bin\Debug\WinSquare.Classes.dll
+D:\DotNet\Visual Studio 2012\Projects\Libraries\WinSquare\Classes\bin\Debug\WinSquare.Classes.pdb
+D:\DotNet\Visual Studio 2012\Projects\Libraries\WinSquare\Classes\bin\Debug\Newtonsoft.Json.dll
+D:\DotNet\Visual Studio 2012\Projects\Libraries\WinSquare\Classes\bin\Debug\Newtonsoft.Json.pdb
+D:\DotNet\Visual Studio 2012\Projects\Libraries\WinSquare\Classes\bin\Debug\Newtonsoft.Json.xml
+D:\DotNet\Visual Studio 2012\Projects\Libraries\WinSquare\Classes\obj\Debug\WinSquare.Classes.dll
+D:\DotNet\Visual Studio 2012\Projects\Libraries\WinSquare\Classes\obj\Debug\WinSquare.Classes.pdb
